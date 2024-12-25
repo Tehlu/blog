@@ -14,4 +14,8 @@ Javascript: function funcName(par) {}
 Hoisting(calling before definition) allowed in Js, No hoisting in Py
 Doctrings for Py
 
+Variable: 
+Python: Dynamic 
+Javascript: Dynamic i.e var, let, const
+
 
