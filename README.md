@@ -22,4 +22,8 @@ Spacing, Indentation:
 Python must use a 4 tabs indent on each level. No mixing of tabs and spaces.
 Js has just best practices(similar to Python btw) but no indent requirements. Examples: space after commas in list, space between Classes(2), methods(1) etc
 
+Use Case
+Python is popular in Data Science, Machine Learning, and IOT
+JS is mainly used in web applications.
+
 
