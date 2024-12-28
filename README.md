@@ -15,15 +15,17 @@ Hoisting(calling before definition) allowed in Js, No hoisting in Py
 Doctrings for Py
 
 Variable: 
-Python: Dynamic 
-Javascript: Dynamic i.e var, let, const
+Python: Dynamic, No command for declaring variables. i.e x=5, x=True, etc 
+Javascript: Dynamic, uses var, let, const to declare variables.
 
 Spacing, Indentation:
 Python must use a 4 tabs indent on each level. No mixing of tabs and spaces.
 Js has just best practices(similar to Python btw) but no indent requirements. Examples: space after commas in list, space between Classes(2), methods(1) etc
 
 Use Case
-Python is popular in Data Science, Machine Learning, and IOT
-JS is mainly used in web applications.
+Python is popular in Data Science, Machine Learning, IOT, security, automation
+JS is mainly used in web applications. 
+However, both languages have frameworks and libraries we can use to create desktop and mobile apps. 
+We'll explore more when it comes to developing libraries, or even applications close to the hardware (embedded systems, kernels, OS, etc)
 
 
