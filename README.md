@@ -33,5 +33,7 @@ Both languages are considered multi-paradigm languages. Can be used in object-or
 Because of its event-driven nature, JS is closer to Functional Programming than the rest.
 
 Rabbit-trail: Functional Programming is based on mathematical fns and focuses on what to solve. Characteristics: Data immutable, pure fns(no side effect), first class fns(can be returned from another fn, assigned to variables and can pass as an argument. Often uses recursion instead of loops.
+              Declarative programming describes the desired state of the program and data. The control flow is abstracted away. We don't tell how to do it but what to do. 
+              i.e numbers = [1, 2, 3, 4, 5] squares = [x * x for x in numbers]
 
 
