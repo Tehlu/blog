@@ -32,4 +32,6 @@ Pradigm
 Both languages are considered multi-paradigm languages. Can be used in object-oriented, functional, and imperative programming developments.
 Because of its event-driven nature, JS is closer to Functional Programming than the rest.
 
+Rabbit-trail: Functional Programming is based on mathematical fns and focuses on what to solve. Characteristics: Data immutable, pure fns(no side effect), first class fns(can be returned from another fn, assigned to variables and can pass as an argument. Often uses recursion instead of loops.
+
 
