@@ -28,7 +28,7 @@ JS is mainly used in web applications.
 However, both languages have frameworks and libraries we can use to create desktop and mobile apps. (console apps A)
 We'll explore more when it comes to developing libraries, or even applications close to the hardware (embedded systems, kernels, OS, etc)
 
-Pradigm
+Paradigm
 Both languages are considered multi-paradigm languages. Can be used in object-oriented, functional, and imperative programming developments.
 Because of its event-driven nature, JS is closer to Functional Programming than the rest.
 
