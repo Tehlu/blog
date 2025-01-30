@@ -38,3 +38,5 @@ Rabbit-trail: Functional Programming is based on mathematical functions and focu
 Imperative programming is the opposite of declarative programming as it requires the writing of step by step instructions on how to solve the problem(arrive at the desired state of the program). It takes care of the how.
 
 
+Python has list comprehension-> shorthand of creating a list based on an existing list i.e newlist = [expression for item in iterable if condition == True].
+While there's no direct equivalent in Javascript, we can achieve the same thing using methods like map(), reduce(), and filter().
