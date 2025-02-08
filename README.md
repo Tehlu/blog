@@ -19,7 +19,7 @@ Python: Dynamic, No command for declaring variables. i.e x=5, x=True, etc
 Javascript: Dynamic, uses var, let, const to declare variables.
 
 Spacing, Indentation:
-Python must use a 4 tabs indent on each level. No mixing of tabs and spaces.
+Python must use a four tabs indent on each level. No mixing of tabs and spaces.
 Js has just best practices(similar to Python btw) but no indent requirements. Examples: space after commas in list, space between Classes(2), methods(1) etc
 
 Use Case
