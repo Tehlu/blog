@@ -40,3 +40,6 @@ Imperative programming is the opposite of declarative programming as it requires
 
 Python has list comprehension-> shorthand of creating a list based on an existing list i.e newlist = [expression for item in iterable if condition == True].
 While there's no direct equivalent in Javascript, we can achieve the same thing using methods like map(), reduce(), and filter().
+
+Asynchronus Operations
+Python uses libraries like asyncio to handle asynchronus tasks while JS has native tools like promises, async/await, callbacks etc
