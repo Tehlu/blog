@@ -8,38 +8,39 @@ Two of my favorite languages. I love Python because of its versatility and simpl
 I love Javascript because it's ubiquitous throughout the web.
 I can highlight some of the differences. 
 
-Function declaration: 
+***Function declaration***<br>
 Python: def funcName(par: type):
 Javascript: function funcName(par) {}
 Hoisting(calling before definition) allowed in Js, No hoisting in Py
 Doctrings for Py
 
-Variable: 
+***Variable***<br> 
 Python: Dynamic, No command for declaring variables. i.e x=5, x=True, etc 
 Javascript: Dynamic, uses var, let, const to declare variables.
 
-Spacing, Indentation:
+***Spacing, Indentation***<br>
 Python must use a four tabs indent on each level. No mixing of tabs and spaces.
 Js has just best practices(similar to Python btw) but no indent requirements. Examples: space after commas in list, space between Classes(2), methods(1) etc
 
-Use Case
+***Use Case***<br>
 Python is popular in Data Science, Machine Learning, IOT, security, automation
 JS is mainly used in web applications. 
 However, both languages have frameworks and libraries we can use to create desktop and mobile apps. (console apps A)
 We'll explore more when it comes to developing libraries, or even applications close to the hardware (embedded systems, kernels, OS, etc)
 
-Paradigm
+***Paradigm***<br>
 Both languages are considered multi-paradigm languages. Can be used in object-oriented, functional, and imperative programming developments.
 Because of its event-driven nature, JS is closer to Functional Programming than the rest.
 
-Rabbit-trail: Functional Programming is based on mathematical functions and focuses on what to solve. Characteristics: Data immutable, pure fns(no side effect), first class fns(can be returned from another fn, assigned to variables and can pass as an argument. Often uses recursion instead of loops.
+*Rabbit-trail*<br> Functional Programming is based on mathematical functions and focuses on what to solve. Characteristics: Data immutable, pure fns(no side effect), first class fns(can be returned from another fn, assigned to variables and can pass as an argument. Often uses recursion instead of loops.
               Declarative programming describes the desired state of the program and data. The control flow is abstracted away. We don't tell how to do it but what to do. 
               i.e numbers = [1, 2, 3, 4, 5] squares = [x * x for x in numbers]
 Imperative programming is the opposite of declarative programming as it requires the writing of step by step instructions on how to solve the problem(arrive at the desired state of the program). It takes care of the how.
 
 
+***List Comprehension***<br> 
 Python has list comprehension-> shorthand of creating a list based on an existing list i.e newlist = [expression for item in iterable if condition == True].
 While there's no direct equivalent in Javascript, we can achieve the same thing using methods like map(), reduce(), and filter().
 
-Asynchronus Operations
+***Asynchronus Operations***<br>
 Python uses libraries like asyncio to handle asynchronus tasks while JS has native tools like promises, async/await, callbacks etc
