@@ -4,12 +4,12 @@ Hello, this is a blog where I'll be adding my thoughts as it relates to tech, pr
 
 
 ## Article #1 Python vs Javascript
-Two of my favorite languages. I love Python because of its versatility and simpler synthax.
+Two of my favorite languages. I love Python because of its versatility and simpler syntax.
 I love Javascript because it's ubiquitous throughout the web.
 I can highlight some of the differences. 
 
 ***Function declaration***<br>
-Python: def funcName(par: type):
+Python: def funcName(par: type):<br>
 Javascript: function funcName(par) {}
 Hoisting(calling before definition) allowed in Js, No hoisting in Py
 Doctrings for Py
@@ -21,6 +21,50 @@ Javascript: Dynamic, uses var, let, const to declare variables.
 ***Spacing, Indentation***<br>
 Python must use a four tabs indent on each level. No mixing of tabs and spaces.
 Js has just best practices(similar to Python btw) but no indent requirements. Examples: space after commas in list, space between Classes(2), methods(1) etc
+
+
+
+***Control Flow (Loops & Conditionals)***<br>
+Python uses indentation to control flow whereas Javascript uses parentheses and curly braces.
+
+  Python:<br>
+  ```
+if age >= 18:
+    print("You are an adult.")
+else:
+    print("You are a minor.")
+  ```
+
+JS:<br>
+```
+if (age >= 18) {
+    console.log("You are an adult.");
+} else {
+    console.log("You are a minor.");
+}
+```
+For loops, python uses a more readable approach while JS uses the traditional, index-based loop. We must note that, however, index can be used for python and for JS ES6 introduced a newer syntax similar to Python.<br>
+Python<br>
+
+```
+fruits = ["Apple", "Banana","Cherry"]
+for fruit in fruits:
+    print(fruit)
+```
+Javascript<br>
+```
+let fruits = ["Apple", "Banana", "Cherry"];
+for(let i=0; i<fruits.length; i++){
+    console.log(fruits[i]);
+}
+```
+ES6 <br>
+```
+for (let fruit of fruits) {
+    console.log(fruit);
+}
+```
+Output f"{}" vs `${}` <br>
 
 ***Use Case***<br>
 Python is popular in Data Science, Machine Learning, IOT, security, automation
