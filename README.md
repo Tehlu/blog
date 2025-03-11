@@ -64,7 +64,19 @@ for (let fruit of fruits) {
     console.log(fruit);
 }
 ```
-Output f"{}" vs `${}` <br>
+Output <br>
+To include expressions or values, Py uses f-strings f"{expression}" whereas JS uses template literals `${expression}` <br>
+i.e <br>
+Py <br>
+```
+name = "World"
+print(f"Hello, {name}!") # Output: Hello, World! <br>
+```
+JS<br>
+```
+const name = "World";
+console.log(`Hello, ${name}!`); // Output: Hello, World!
+```
 
 ***Use Case***<br>
 Python is popular in Data Science, Machine Learning, IOT, security, automation
