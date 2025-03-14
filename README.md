@@ -50,6 +50,10 @@ Python<br>
 fruits = ["Apple", "Banana","Cherry"]
 for fruit in fruits:
     print(fruit)
+
+# Using index
+for i,fruit in enumerate(fruits):
+    print(f"fruit number {i} is {fruit}")
 ```
 Javascript<br>
 ```
