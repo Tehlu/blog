@@ -12,7 +12,7 @@ I can highlight some of the differences.
 Python: def funcName(par: type):<br>
 Javascript: function funcName(par) {}
 Hoisting(calling before definition) allowed in Js, No hoisting in Py
-Doctrings for Py
+Doctrings for Py.
 
 ***Variable***<br> 
 Python: Dynamic, No command for declaring variables. i.e x=5, x=True, etc 
