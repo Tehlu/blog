@@ -83,6 +83,8 @@ JS<br>
 const name = "World";
 console.log(`Hello, ${name}!`); // Output: Hello, World!
 ```
+Switch-Case Statement<br>
+Python uses the classic switch-case or match-case(more powerful) construct for pattern matching. Javascript uses only switch-case.
 
 ***Use Case***<br>
 Python is popular in Data Science, Machine Learning, IOT, security, automation
