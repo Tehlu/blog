@@ -104,6 +104,12 @@ Imperative programming is the opposite of declarative programming as it requires
 
 ***List Comprehension***<br> 
 Python has list comprehension-> shorthand of creating a list based on an existing list i.e newlist = [expression for item in iterable if condition == True].
+```
+# Example: Filter and transform in one step
+even_squares = [x**2 for x in range(1, 11) if x % 2 == 0]
+print(even_squares)
+# prints [4, 16, 36, 64, 100]
+```
 While there's no direct equivalent in Javascript, we can achieve the same thing using methods like map(), reduce(), and filter().
 
 ***Asynchronus Operations***<br>
