@@ -20,7 +20,7 @@ Javascript: Dynamic, uses var, let, const to declare variables.
 
 ***Spacing, Indentation***<br>
 Python must use a four tabs indent on each level. No mixing of tabs and spaces.
-Js has just best practices(similar to Python btw) but no indent requirements. Examples: space after commas in list, space between Classes(2), methods(1) etc
+Js has just best practices (similar to Python btw) but no indent requirements. Examples: space after commas in list, space between Classes(2), methods(1) etc
 
 ***Comments***<br>
 Python's single line comments use a hash symbol (#). While it doesn't have a syntax for multiline comments, one can use the triple quotes '''multiline comment''' (or """) representing unassigned strings.<br>
