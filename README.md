@@ -16,7 +16,7 @@ Doctrings for Py.
 
 ***Variable***<br> 
 Python: Dynamic, No command for declaring variables. i.e x=5, x=True, etc 
-Javascript: Dynamic, uses var, let, const to declare variables.
+Javascript: Dynamic, uses var, let, const to declare variables. In JS, variables declared with var are hoisted up (Can be used before declaration) unlike const and let.
 
 ***Spacing, Indentation***<br>
 Python must use a four tabs indent on each level. No mixing of tabs and spaces.
