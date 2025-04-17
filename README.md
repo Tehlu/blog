@@ -113,4 +113,4 @@ print(even_squares)
 While there's no direct equivalent in Javascript, we can achieve the same thing using methods like map(), reduce(), and filter().
 
 ***Asynchronus Operations***<br>
-Python uses libraries like asyncio to handle asynchronus tasks while JS has native tools like promises, async/await, callbacks etc
+Python uses libraries like asyncio to handle asynchronus tasks while JS has native tools: promises, async/await, callbacks etc
