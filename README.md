@@ -90,7 +90,7 @@ Python uses the classic switch-case or match-case(more powerful) construct for p
 Python is popular in Data Science, Machine Learning, IOT, security, automation
 JS is mainly used in web applications. 
 However, both languages have frameworks and libraries we can use to create desktop and mobile apps. (console apps A)
-We'll explore more when it comes to developing libraries, or even applications close to the hardware (embedded systems, kernels, OS, etc)
+We'll explore more when it comes to developing libraries, or even applications close to the hardware (embedded systems, kernels, OS, etc).
 
 ***Paradigm***<br>
 Both languages are considered multi-paradigm languages. Can be used in object-oriented, functional, and imperative programming developments.
