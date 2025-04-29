@@ -24,7 +24,7 @@ Js has just best practices (similar to Python btw) but no indent requirements. E
 
 ***Comments***<br>
 Python's single line comments use a hash symbol (#). While it doesn't have a syntax for multiline comments, one can use the triple quotes '''multiline comment''' (or """) representing unassigned strings.<br>
-JS uses double forward slash // for single line and slash+asterisk for multiline comments /* multiline comment */.
+JS uses double forward slash // for single line and slash+asterisk for multiline comments /*multiline comment*/.
 
 ***Control Flow (Loops & Conditionals)***<br>
 Python uses indentation to control flow whereas Javascript uses parentheses and curly braces.
