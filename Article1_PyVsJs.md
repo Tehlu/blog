@@ -10,7 +10,7 @@ Hoisting(calling before definition) allowed in Js, No hoisting in Py.
 Doctrings for Py.
 
 ***Variable***<br> 
-Python: Dynamic, No command for declaring variables. i.e x=5, x=True, etc 
+Python: Dynamic, no command for declaring variables. i.e x=5, x=True, etc 
 Javascript: Dynamic, uses var, let, const to declare variables. In JS, variables declared with var are hoisted up (Can be used before declaration) unlike const and let.
 
 ***Spacing, Indentation***<br>
