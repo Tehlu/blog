@@ -40,7 +40,7 @@ if (age >= 18) {
     console.log("You are a minor.");
 }
 ```
-For loops, python uses a more readable approach while JS uses the traditional, index-based loop. We must note that, however, index can be used for python and for JS ES6 introduced a newer syntax similar to Python.<br>
+For loops, python uses a more readable approach, while JS uses the traditional, index-based loop. We must note that, however, index can be used for python and for JS ES6 introduced a newer syntax similar to Python.<br>
 Python<br>
 
 ```
