@@ -1,6 +1,6 @@
 ## Article #1 Python vs Javascript
 Two of my favorite languages. I love Python because of its versatility and simpler syntax.
-I love Javascript (JS) because it's ubiquitous throughout the web.
+I love Javascript because it's ubiquitous throughout the web.
 I can highlight some of the differences. 
 
 ***Function declaration***<br>
